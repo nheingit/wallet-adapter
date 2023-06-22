@@ -1,5 +1,18 @@
 # @solana/wallet-adapter-example
 
+## 0.18.22-alpha.0
+
+### Patch Changes
+
+-   Add support for Sign In With Solana
+-   Updated dependencies
+    -   @solana/wallet-adapter-react@0.15.33-alpha.0
+    -   @solana/wallet-adapter-base@0.9.23-alpha.0
+    -   @solana/wallet-adapter-ant-design@0.11.29-alpha.0
+    -   @solana/wallet-adapter-material-ui@0.16.31-alpha.0
+    -   @solana/wallet-adapter-react-ui@0.9.32-alpha.0
+    -   @solana/wallet-adapter-wallets@0.19.18-alpha.0
+
 ## 0.18.21
 
 ### Patch Changes

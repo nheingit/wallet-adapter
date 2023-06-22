@@ -1,5 +1,13 @@
 # @solana/wallet-adapter-unsafe-burner
 
+## 0.1.7-alpha.0
+
+### Patch Changes
+
+-   Add support for Sign In With Solana
+-   Updated dependencies
+    -   @solana/wallet-adapter-base@0.9.23-alpha.0
+
 ## 0.1.6
 
 ### Patch Changes

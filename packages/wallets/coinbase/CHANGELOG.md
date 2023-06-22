@@ -1,5 +1,13 @@
 # @solana/wallet-adapter-coinbase
 
+## 0.1.18-alpha.0
+
+### Patch Changes
+
+-   Add support for Sign In With Solana
+-   Updated dependencies
+    -   @solana/wallet-adapter-base@0.9.23-alpha.0
+
 ## 0.1.17
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @solana/wallet-adapter-create-react-app-starter
 
+## 0.1.16-alpha.0
+
+### Patch Changes
+
+-   Add support for Sign In With Solana
+-   Updated dependencies
+    -   @solana/wallet-adapter-react@0.15.33-alpha.0
+    -   @solana/wallet-adapter-base@0.9.23-alpha.0
+    -   @solana/wallet-adapter-react-ui@0.9.32-alpha.0
+    -   @solana/wallet-adapter-wallets@0.19.18-alpha.0
+
 ## 0.1.15
 
 ### Patch Changes

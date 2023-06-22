@@ -1,5 +1,11 @@
 # @solana/wallet-adapter-base
 
+## 0.9.23-alpha.0
+
+### Patch Changes
+
+-   Add support for Sign In With Solana
+
 ## 0.9.22
 
 ### Patch Changes

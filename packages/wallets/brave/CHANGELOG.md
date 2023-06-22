@@ -1,5 +1,13 @@
 # @solana/wallet-adapter-brave
 
+## 0.1.17-alpha.0
+
+### Patch Changes
+
+-   Add support for Sign In With Solana
+-   Updated dependencies
+    -   @solana/wallet-adapter-base@0.9.23-alpha.0
+
 ## 0.1.16
 
 ### Patch Changes
