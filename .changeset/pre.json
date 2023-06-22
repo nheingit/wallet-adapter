@@ -60,6 +60,7 @@
     "@solana/wallet-adapter-xdefi": "0.1.6"
   },
   "changesets": [
-    "sharp-pans-sparkle"
+    "sharp-pans-sparkle",
+    "ten-radios-rhyme"
   ]
 }

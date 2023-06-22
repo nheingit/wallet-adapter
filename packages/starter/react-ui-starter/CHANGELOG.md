@@ -1,5 +1,16 @@
 # @solana/wallet-adapter-react-ui-starter
 
+## 0.9.19-alpha.1
+
+### Patch Changes
+
+-   fad95ac1: Add support for Sign In With Solana
+-   Updated dependencies [fad95ac1]
+    -   @solana/wallet-adapter-wallets@0.19.18-alpha.1
+    -   @solana/wallet-adapter-react-ui@0.9.32-alpha.1
+    -   @solana/wallet-adapter-react@0.15.33-alpha.1
+    -   @solana/wallet-adapter-base@0.9.23-alpha.1
+
 ## 0.9.19-alpha.0
 
 ### Patch Changes

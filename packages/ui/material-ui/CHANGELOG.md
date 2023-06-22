@@ -1,5 +1,14 @@
 # @solana/wallet-adapter-material-ui
 
+## 0.16.31-alpha.1
+
+### Patch Changes
+
+-   fad95ac1: Add support for Sign In With Solana
+-   Updated dependencies [fad95ac1]
+    -   @solana/wallet-adapter-react@0.15.33-alpha.1
+    -   @solana/wallet-adapter-base@0.9.23-alpha.1
+
 ## 0.16.31-alpha.0
 
 ### Patch Changes

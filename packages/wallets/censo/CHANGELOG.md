@@ -1,5 +1,13 @@
 # @solana/wallet-adapter-censo
 
+## 0.1.4-alpha.1
+
+### Patch Changes
+
+-   fad95ac1: Add support for Sign In With Solana
+-   Updated dependencies [fad95ac1]
+    -   @solana/wallet-adapter-base@0.9.23-alpha.1
+
 ## 0.1.4-alpha.0
 
 ### Patch Changes

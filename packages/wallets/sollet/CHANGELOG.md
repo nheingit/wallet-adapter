@@ -1,5 +1,13 @@
 # @solana/wallet-adapter-sollet
 
+## 0.11.17-alpha.1
+
+### Patch Changes
+
+-   fad95ac1: Add support for Sign In With Solana
+-   Updated dependencies [fad95ac1]
+    -   @solana/wallet-adapter-base@0.9.23-alpha.1
+
 ## 0.11.17-alpha.0
 
 ### Patch Changes
